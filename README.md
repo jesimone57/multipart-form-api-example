@@ -16,7 +16,7 @@ Run KarateTest in the test package:
 * git
 
 **To Build**
-* git clone ..
+* git clone https://github.com/jesimone57/multipart-form-api-example.git
 * cd multipart-form-api-example
 * mvn clean compile test
 
